@@ -1,0 +1,6 @@
+body{font-family: Verdana, Arial, Helvetica, sans-serif;  color: #000000;  font-size: 11px;  font-style: normal;  text-decoration: none;}
+.cvTable{width:980px; padding-left:100px;}
+.rowTitleView{font-weight:normal;padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px;text-align:right;width:30%;border-right:1px solid #000000;}
+.rowDataView{font-weight:bold;padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px;text-align:left;line-height:14px;width:70%;}
+.rowDataViewNormal{font-weight:normal;padding-top:5px;padding-bottom:5px;padding-right:10px;padding-left:10px;text-align:left;line-height:14px;width:70%;}
+.spanDataView{font-weight:normal;}	
