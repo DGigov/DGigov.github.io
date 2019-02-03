@@ -47,9 +47,9 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand" href="#">Deyan Gigov</a>
+      <a class="navbar-brand" href="#"><h4>Deyan Gigov</h4></a>
     </div>
-      <div class="collapse navbar-collapse" id="navbarContent">
+      <div class="collapse navbar-collapse subheading" id="navbarContent">
         <ul class="nav navbar-nav">
           <li>
             <a href="#info">About</a>
