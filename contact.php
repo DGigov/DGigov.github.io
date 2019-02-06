@@ -12,7 +12,7 @@
 		  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
 		  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 		  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
-		  <script src="javascript.js"></script>
+		
 	
 <style>
 	div.cont
@@ -47,9 +47,9 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand" href="#"><h4>Deyan Gigov</h4></a>
+      <a class="navbar-brand" href="index.php">Deyan Gigov</a>
     </div>
-      <div class="collapse navbar-collapse subheading" id="navbarContent">
+      <div class="collapse navbar-collapse" id="navbarContent">
         <ul class="nav navbar-nav">
           <li>
             <a href="#info">About</a>
